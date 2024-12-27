@@ -1,0 +1,15 @@
+{
+    "name": "rebeka/poo",
+    "autoload": {
+        "psr-4": {
+            "app": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony",
+            "email": "anthonytecinf@gmail.com"
+        }
+    ],
+    "require": {}
+}
